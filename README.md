@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to 365 Days of Code Challenge
 
-You can use the [editor on GitHub](https://github.com/mayank/365-days-challenge/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This repo is for those who lack consistency in their coding work-flow but fells the need to code daily not only to improve their skills but because it's simply fun to code.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+365 days of code is nothing but simple log based procedure where you devote some given period to code a particular project in mind or just learning something new. You can work on anything and everything because the main aim of doing this is to devlope consistency and skills on the way.
 
-### Markdown
+The work is done in collection of short sprints which each last a week , each sprint is of a week and each day logs are updated.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## How to get started ?
+1.Choose how many hours can you devote, the max being 4 hours and min being 1 hour.
+- [ ] 1 hour
+- [x] 2 hours
+- [ ] 3 hours
+- [ ] 4 hours
 
-```markdown
-Syntax highlighted code block
+2.Set up a yearly goal which can be anything later do some research what needs be done to reach your goal.
+> To Create a Home Automated System
 
-# Header 1
-## Header 2
-### Header 3
+3.Break down long term tasks into sprint , sprints are weekely events that are done achive those short goals.
 
-- Bulleted
-- List
+4.Each sprint consists of a week and each day of a week certain hours are taken out to achive those goals.
 
-1. Numbered
-2. List
+5.Logs of each day are updated.
 
-**Bold** and _Italic_ and `Code` text
+6.Logs consists of timings and task name whic is being covered (optional)
 
-[Link](url) and ![Image](src)
-```
+7.Time spent in daily sprint is only concidered if it's in a regural interval and is not consicedered if you futher spilit the timigs in long breaks.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mayank/365-days-challenge/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+8.Upadte the log daily(it's okay if you somehow skip a day,just don't give up)and try not to skip more than one day in a row.
